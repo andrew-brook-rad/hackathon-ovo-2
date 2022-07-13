@@ -1,0 +1,902 @@
+[
+ {
+   "Appliance": "100W light bulb (Incandescent)",
+   "Min": "100W",
+   "Max": "100W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "22 Inch LED TV",
+   "Min": "17W",
+   "Max": "17W",
+   "Standby": "0.5"
+ },
+ {
+   "Appliance": "25\" colour TV",
+   "Min": "150W",
+   "Max": "150W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "3\" belt sander",
+   "Min": "1000W",
+   "Max": "1000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "32 Inch LED TV",
+   "Min": "20W",
+   "Max": "60W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "42 Inch LED TV",
+   "Min": "58W",
+   "Max": "60W",
+   "Standby": "0.3"
+ },
+ {
+   "Appliance": "46 Inch LED TV",
+   "Min": "60W",
+   "Max": "70W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "49 Inch LED TV",
+   "Min": "85W",
+   "Max": "85W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "55 Inch LED TV",
+   "Min": "116W",
+   "Max": "116W",
+   "Standby": "0.5"
+ },
+ {
+   "Appliance": "60W light bulb (Incandescent)",
+   "Min": "60W",
+   "Max": "60W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "65 Inch LED TV",
+   "Min": "120W",
+   "Max": "130W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "82 Inch LED TV",
+   "Min": "228W",
+   "Max": "295W",
+   "Standby": "0.5"
+ },
+ {
+   "Appliance": "9\" disc sander",
+   "Min": "1200W",
+   "Max": "1200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Air Cooler",
+   "Min": "65W",
+   "Max": "80W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Air Fryer",
+   "Min": "1500W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Air Purifier",
+   "Min": "25W",
+   "Max": "30W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Amazon Echo",
+   "Min": "3W",
+   "Max": "3W",
+   "Standby": "2"
+ },
+ {
+   "Appliance": "Amazon Echo Dot",
+   "Min": "2W",
+   "Max": "3W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Amazon Echo Show",
+   "Min": "2W",
+   "Max": "4W",
+   "Standby": "0.1"
+ },
+ {
+   "Appliance": "American-Style Fridge Freezer",
+   "Min": "40W",
+   "Max": "80W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Apple TV",
+   "Min": "3W",
+   "Max": "6W",
+   "Standby": "0.3"
+ },
+ {
+   "Appliance": "Aquarium Pump",
+   "Min": "20W",
+   "Max": "50W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "AV Receiver",
+   "Min": "450W",
+   "Max": "450W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Bathroom Towel Heater",
+   "Min": "60W",
+   "Max": "150W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Ceiling Fan",
+   "Min": "60W",
+   "Max": "70W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Chromebook",
+   "Min": "45W",
+   "Max": "45W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Chromecast",
+   "Min": "2W",
+   "Max": "2W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Clock radio",
+   "Min": "1W",
+   "Max": "2W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Clothes Dryer",
+   "Min": "1000W",
+   "Max": "4000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Coffee Maker",
+   "Min": "800W",
+   "Max": "1400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Computer Monitor",
+   "Min": "25W",
+   "Max": "30W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Cooker Hood",
+   "Min": "20W",
+   "Max": "30W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Corded Drill",
+   "Min": "600W",
+   "Max": "850W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Corded Electric Handheld Leaf Blower",
+   "Min": "2500W",
+   "Max": "2500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Cordless Drill Charger",
+   "Min": "70W",
+   "Max": "150W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Curling Iron",
+   "Min": "25W",
+   "Max": "35W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "DAB Mains Radio",
+   "Min": "5W",
+   "Max": "9W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Deep Freezer",
+   "Min": "19W",
+   "Max": "19W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Dehumidifier",
+   "Min": "240W",
+   "Max": "240W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Desktop Computer",
+   "Min": "100W",
+   "Max": "450W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Dishwasher",
+   "Min": "1200W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Domestic Water Pump",
+   "Min": "200W",
+   "Max": "300W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "DVD Player",
+   "Min": "26W",
+   "Max": "60W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Blanket",
+   "Min": "200W",
+   "Max": "200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Boiler",
+   "Min": "4000W",
+   "Max": "14000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Doorbell Transformer",
+   "Min": "2W",
+   "Max": "2W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Heater Fan",
+   "Min": "2000W",
+   "Max": "3000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Kettle",
+   "Min": "1200W",
+   "Max": "3000W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Electric Mower",
+   "Min": "1500W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Pressure Cooker",
+   "Min": "1000W",
+   "Max": "1000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Shaver",
+   "Min": "15W",
+   "Max": "20W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric stove",
+   "Min": "2000W",
+   "Max": "2000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Tankless Water Heater",
+   "Min": "6600W",
+   "Max": "8800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Thermal Radiator",
+   "Min": "500W",
+   "Max": "500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Electric Toothbrush Charger",
+   "Min": "6W",
+   "Max": "6W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Espresso Coffee Machine",
+   "Min": "1300W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "EV Car Charger",
+   "Min": "2000W",
+   "Max": "7000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "EV Home Charger",
+   "Min": "1600W",
+   "Max": "3400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Evaporative Air Conditioner",
+   "Min": "2600W",
+   "Max": "2600W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "External Hard Drive",
+   "Min": "1W",
+   "Max": "3W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Extractor Fan",
+   "Min": "12W",
+   "Max": "12W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Fluorescent Lamp",
+   "Min": "28W",
+   "Max": "45W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Food Blender",
+   "Min": "300W",
+   "Max": "400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Food Dehydrator",
+   "Min": "800W",
+   "Max": "800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Freezer",
+   "Min": "30W",
+   "Max": "50W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Fridge",
+   "Min": "100W",
+   "Max": "220W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Fridge / Freezer",
+   "Min": "150W",
+   "Max": "400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Fryer",
+   "Min": "1000W",
+   "Max": "1000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Game Console",
+   "Min": "120W",
+   "Max": "200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Gaming PC",
+   "Min": "300W",
+   "Max": "600W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "Garage Door Opener",
+   "Min": "300W",
+   "Max": "400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Google Home Mini",
+   "Min": "15W",
+   "Max": "15W",
+   "Standby": "2"
+ },
+ {
+   "Appliance": "Guitar Amplifier",
+   "Min": "20W",
+   "Max": "30W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Hair Blow Dryer",
+   "Min": "1800W",
+   "Max": "2500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Hand Wash Oversink Water Heater",
+   "Min": "3000W",
+   "Max": "3000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Heated Bathroom Mirror",
+   "Min": "50W",
+   "Max": "100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Heated Hair Rollers",
+   "Min": "400W",
+   "Max": "400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Home Air Conditioner",
+   "Min": "1000W",
+   "Max": "4000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Home Internet Router",
+   "Min": "5W",
+   "Max": "15W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Home Phone",
+   "Min": "3W",
+   "Max": "5W",
+   "Standby": "2"
+ },
+ {
+   "Appliance": "Home Sound System",
+   "Min": "95W",
+   "Max": "95W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "Hot Water Dispenser",
+   "Min": "1200W",
+   "Max": "1300W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Hot Water Immersion Heater",
+   "Min": "3000W",
+   "Max": "3000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Humidifier",
+   "Min": "35W",
+   "Max": "40W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "iMac",
+   "Min": "60W",
+   "Max": "240W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "Induction Hob (per hob)",
+   "Min": "1400W",
+   "Max": "1800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Inkjet Printer",
+   "Min": "20W",
+   "Max": "30W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Inverter Air conditioner",
+   "Min": "1300W",
+   "Max": "1800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Iron",
+   "Min": "1000W",
+   "Max": "1000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Jacuzzi",
+   "Min": "3000W",
+   "Max": "7500W",
+   "Standby": "1500"
+ },
+ {
+   "Appliance": "Kitchen Extractor Fan",
+   "Min": "200W",
+   "Max": "200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Laptop Computer",
+   "Min": "50W",
+   "Max": "100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Laser Printer",
+   "Min": "600W",
+   "Max": "800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Lawnmower",
+   "Min": "1000W",
+   "Max": "1400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "LED Christmas Lights",
+   "Min": "5W",
+   "Max": "5W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "LED Light Bulb",
+   "Min": "7W",
+   "Max": "10W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Mi Box",
+   "Min": "5W",
+   "Max": "7W",
+   "Standby": "3"
+ },
+ {
+   "Appliance": "Microwave",
+   "Min": "600W",
+   "Max": "1700W",
+   "Standby": "3"
+ },
+ {
+   "Appliance": "Night Light",
+   "Min": "1W",
+   "Max": "1W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Nintendo Switch AC Adapter",
+   "Min": "7W",
+   "Max": "40W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Outdoor Hot Tub",
+   "Min": "60W",
+   "Max": "500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Oven",
+   "Min": "2150W",
+   "Max": "2150W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Paper Shredder",
+   "Min": "200W",
+   "Max": "220W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Pedestal Fan",
+   "Min": "50W",
+   "Max": "60W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Percolator",
+   "Min": "800W",
+   "Max": "1100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Philips Hue Smart Bulb",
+   "Min": "8W",
+   "Max": "9W",
+   "Standby": "0.4"
+ },
+ {
+   "Appliance": "Phone Charger",
+   "Min": "4W",
+   "Max": "7W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Playstation 4",
+   "Min": "85W",
+   "Max": "90W",
+   "Standby": "0.47"
+ },
+ {
+   "Appliance": "Playstation 5",
+   "Min": "160W",
+   "Max": "200W",
+   "Standby": "1.5"
+ },
+ {
+   "Appliance": "Portable Air Conditioner",
+   "Min": "1000W",
+   "Max": "1200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Power Shower",
+   "Min": "7500W",
+   "Max": "10500W",
+   "Standby": "0W"
+ },
+ {
+   "Appliance": "Pressure Cooker",
+   "Min": "700W",
+   "Max": "700W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Pressure Washer",
+   "Min": "1500W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Projector",
+   "Min": "220W",
+   "Max": "270W",
+   "Standby": "1W"
+ },
+ {
+   "Appliance": "Refrigerator",
+   "Min": "100W",
+   "Max": "200W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Rice Cooker",
+   "Min": "200W",
+   "Max": "800W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Sandwich Maker",
+   "Min": "700W",
+   "Max": "1000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Scanner",
+   "Min": "10W",
+   "Max": "18W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Set Top Box",
+   "Min": "27W",
+   "Max": "30W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Sewing Machine",
+   "Min": "70W",
+   "Max": "80W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Singer Sewing Machine",
+   "Min": "100W",
+   "Max": "100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Sky Q 2TB Box",
+   "Min": "40W",
+   "Max": "40W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Slow Cooker",
+   "Min": "160W",
+   "Max": "180W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Smoke Detector",
+   "Min": "0W",
+   "Max": "1W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Space Heater",
+   "Min": "2000W",
+   "Max": "5000W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Steam Iron",
+   "Min": "2200W",
+   "Max": "2500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Steriliser",
+   "Min": "650W",
+   "Max": "650W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Straightening Iron",
+   "Min": "75W",
+   "Max": "300W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Strimmer",
+   "Min": "300W",
+   "Max": "500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Submersible Water Pump",
+   "Min": "200W",
+   "Max": "400W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Table Fan",
+   "Min": "10W",
+   "Max": "25W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Table Top Fridge",
+   "Min": "10W",
+   "Max": "15W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Tablet Charger",
+   "Min": "10W",
+   "Max": "15W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Tablet Computer",
+   "Min": "5W",
+   "Max": "10W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Toaster",
+   "Min": "800W",
+   "Max": "1800W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Tower Fan",
+   "Min": "60W",
+   "Max": "60W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Treadmill",
+   "Min": "280W",
+   "Max": "900W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Tube Light (1500mm)",
+   "Min": "22W",
+   "Max": "22W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "TV (19\" colour)",
+   "Min": "40W",
+   "Max": "100W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "Vacuum Cleaner",
+   "Min": "450W",
+   "Max": "900W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Wall Fan",
+   "Min": "45W",
+   "Max": "60W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Washing Machine",
+   "Min": "500W",
+   "Max": "500W",
+   "Standby": "1"
+ },
+ {
+   "Appliance": "Water Dispenser",
+   "Min": "100W",
+   "Max": "100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Water Feature",
+   "Min": "35W",
+   "Max": "35W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Water Filter and Cooler",
+   "Min": "70W",
+   "Max": "100W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "WiFi Booster",
+   "Min": "1W",
+   "Max": "2W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "WiFi Router",
+   "Min": "4W",
+   "Max": "10W",
+   "Standby": "4"
+ },
+ {
+   "Appliance": "Window Air Conditioner",
+   "Min": "500W",
+   "Max": "1500W",
+   "Standby": "N/A"
+ },
+ {
+   "Appliance": "Wine cooler (18 bottles)",
+   "Min": "83W",
+   "Max": "83W",
+   "Standby": "0"
+ },
+ {
+   "Appliance": "Xbox One",
+   "Min": "50W",
+   "Max": "110W",
+   "Standby": "14"
+ }
+]
